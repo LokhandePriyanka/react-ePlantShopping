@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/e-plantShopping/', // Ensure this matches your repository name
+  base: '/react-ePlantShopping/', // Match your repository name
 });
